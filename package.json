@@ -1,0 +1,28 @@
+{
+	"name": "prerender-mysql-cache",
+	"version": "0.0.1",
+	"description": "Prerender plugin for MySQL caching",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/kaermorchen/prerender-mysql-cache.git"
+	},
+	"keywords": [
+		"prerender",
+		"mysql",
+		"cache"
+	],
+	"author": "Stanislav Romanov",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/kaermorchen/prerender-mysql-cache/issues"
+	},
+	"homepage": "https://github.com/kaermorchen/prerender-mysql-cache",
+	"dependencies": {
+		"mysql": "^2.7.0"
+	},
+	"devDependencies": {}
+}
