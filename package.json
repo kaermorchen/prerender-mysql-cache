@@ -15,7 +15,7 @@
 		"mysql",
 		"cache"
 	],
-	"author": "Stanislav Romanov",
+	"author": "Stanislav Romanov <mail@stanislavromanov.ru> (http://stanislavromanov.ru)",
 	"license": "MIT",
 	"bugs": {
 		"url": "https://github.com/kaermorchen/prerender-mysql-cache/issues"
